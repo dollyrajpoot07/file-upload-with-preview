@@ -1,0 +1,31 @@
+.container {
+  text-align: center;
+  padding: 2rem;
+  background: #fdfdfd;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 500px;
+  margin: 2rem auto;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.container input[type="file"] {
+  margin-top: 1rem;
+}
+
+.previewSection {
+  margin-top: 1.5rem;
+}
+
+.imagePreview {
+  width: 100%;
+  max-width: 300px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
+
+.fileInfo {
+  font-weight: bold;
+  color: #444;
+}
